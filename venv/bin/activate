@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/mnt/d/workspace/github/scud3009/asteroids/venv"
+VIRTUAL_ENV="/home/deck/workspace/github.com/scud3009/Asteroids/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
